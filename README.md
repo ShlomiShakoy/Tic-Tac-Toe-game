@@ -5,3 +5,4 @@ Tic tac toe game using C#
 
 <img width="375" alt="win" src="https://user-images.githubusercontent.com/103436003/183444001-f74113b8-de63-4cbc-9b10-c4407112455a.PNG">
 
+<img width="379" alt="win2" src="https://user-images.githubusercontent.com/103436003/183444275-9ea620e6-48e4-492f-9328-2ca2b81b2cb8.PNG">
