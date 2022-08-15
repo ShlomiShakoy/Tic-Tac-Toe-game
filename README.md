@@ -1,5 +1,7 @@
-# Tic-tac-toe-game
-Tic tac toe game using C#
+#C#-Tic-Tac-Toe-game
+Tic Tac Toe game using C#.
+
+Covered any wrong case that can happens.
 
 <img width="372" alt="main" src="https://user-images.githubusercontent.com/103436003/183443975-32729ddf-6292-4fa2-a2ed-99d421f7a902.PNG">
 
