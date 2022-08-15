@@ -1,4 +1,4 @@
-Tic Tac Toe game using C#.
+Tic Tac Toe project using C#.
 
 Covered any wrong case that can happens.
 
