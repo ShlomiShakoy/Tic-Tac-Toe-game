@@ -1,4 +1,3 @@
-#C#-Tic-Tac-Toe-game
 Tic Tac Toe game using C#.
 
 Covered any wrong case that can happens.
