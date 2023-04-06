@@ -1,6 +1,6 @@
 Tic Tac Toe project using C#.
 
-Covered any wrong case that can happens.
+Covered any wrong case which can happen.
 
 <img width="372" alt="main" src="https://user-images.githubusercontent.com/103436003/183443975-32729ddf-6292-4fa2-a2ed-99d421f7a902.PNG">
 
